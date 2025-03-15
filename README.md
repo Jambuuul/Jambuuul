@@ -4,7 +4,7 @@
 
 ###
 
-<h4 align="center">Hi! I'm Jam, 19 year old freshman Software Engineering student from HSE.</h4>
+<h4 align="center">Hi! I'm Jam, 19 year old freshman Software Engineering student at HSE.</h4>
 
 ###
 
