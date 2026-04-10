@@ -21,9 +21,6 @@ I have experience in:
   <a href="https://codeforces.com/profile/MightyStorm" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-000?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
-  <a href="https://leetcode.com/u/MightyStorm/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
-  </a>
   <a href="https://t.me/Jambuuul" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram" />
   </a>
