@@ -8,7 +8,7 @@
 
 Hi! I'm Jam, 20 y.o. 
 - Sophomore Software Engineering student at Higher School of Economics
-- Researcher at Cloud and Mobile Technologies lab at HSE
+- C++ dev at Yandex
 
 I have experience in:
 * Algorithms and Data Structures
