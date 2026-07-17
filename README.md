@@ -8,11 +8,11 @@
 
 Hi! I'm Jam, 20 y.o. 
 - Sophomore Software Engineering student at Higher School of Economics
-- C++ dev at Yandex
+- C++ backend dev at Yandex
 
 I have experience in:
+* С++ backend
 * Algorithms and Data Structures
-* C++, C#
 * Data Science in Python
 * iOS development
 
